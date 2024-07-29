@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda online", "Tienda online.csproj", "{F9F1E13C-0E81-4022-8111-E9DDC15B9072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tienda online", "Tienda online.csproj", "{F9F1E13C-0E81-4022-8111-E9DDC15B9072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de ventas POO", "..\Sistema de ventas POO\Sistema de ventas POO.csproj", "{61B47EDA-D74F-4507-8269-DD8C57A25FA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F9F1E13C-0E81-4022-8111-E9DDC15B9072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9F1E13C-0E81-4022-8111-E9DDC15B9072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9F1E13C-0E81-4022-8111-E9DDC15B9072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B47EDA-D74F-4507-8269-DD8C57A25FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B47EDA-D74F-4507-8269-DD8C57A25FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B47EDA-D74F-4507-8269-DD8C57A25FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B47EDA-D74F-4507-8269-DD8C57A25FA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
